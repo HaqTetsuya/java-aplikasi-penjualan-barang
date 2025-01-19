@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormBarangMasuk",
+            "request": "launch",
+            "mainClass": "aplikasipenjualan.FormBarangMasuk",
+            "projectName": "AplikasiPenjualan_81b4fb1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormDaftarReport",
+            "request": "launch",
+            "mainClass": "aplikasipenjualan.FormDaftarReport",
+            "projectName": "AplikasiPenjualan_81b4fb1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormDataBarang",
+            "request": "launch",
+            "mainClass": "aplikasipenjualan.FormDataBarang",
+            "projectName": "AplikasiPenjualan_81b4fb1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormDistributor",
+            "request": "launch",
+            "mainClass": "aplikasipenjualan.FormDistributor",
+            "projectName": "AplikasiPenjualan_81b4fb1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormJenis",
+            "request": "launch",
+            "mainClass": "aplikasipenjualan.FormJenis",
+            "projectName": "AplikasiPenjualan_81b4fb1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormMenu",
+            "request": "launch",
+            "mainClass": "aplikasipenjualan.FormMenu",
+            "projectName": "AplikasiPenjualan_81b4fb1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormPenjualan",
+            "request": "launch",
+            "mainClass": "aplikasipenjualan.FormPenjualan",
+            "projectName": "AplikasiPenjualan_81b4fb1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormPetugas",
+            "request": "launch",
+            "mainClass": "aplikasipenjualan.FormPetugas",
+            "projectName": "AplikasiPenjualan_81b4fb1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "aplikasipenjualan.Main",
+            "projectName": "AplikasiPenjualan_81b4fb1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Menu2",
+            "request": "launch",
+            "mainClass": "aplikasipenjualan.Menu2",
+            "projectName": "AplikasiPenjualan_81b4fb1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch MenuUtama",
+            "request": "launch",
+            "mainClass": "aplikasipenjualan.MenuUtama",
+            "projectName": "AplikasiPenjualan_81b4fb1c"
+        }
+    ]
+}
